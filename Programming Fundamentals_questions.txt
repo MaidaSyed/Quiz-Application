@@ -1,0 +1,108 @@
+What is a variable?
+A storage location
+A function
+An operator
+None of the above
+1
+What is the correct syntax for 'if' in C?
+if condition {}
+if (condition) {}
+if {condition}
+None of these
+2
+Which data type is used to store integers?
+float
+char
+int
+string
+3
+What does the 'printf' function do in C?
+Prints text on the screen
+Takes input from the user
+Exits the program
+None of the above
+1
+Which operator is used for equality comparison in C?
+=
+==
+!=
+<=
+2
+What is the size of an 'int' data type (on most systems)?
+2 bytes
+4 bytes
+8 bytes
+16 bytes
+2
+How are comments written in C for a single line?
+# This is a comment
+-- This is a comment
+// This is a comment
+/* This is a comment */
+3
+What is the correct file extension for a C source file?
+.c
+.cpp
+.txt
+.java
+1
+What will the value of x be after the following code? x = 5; x += 3;
+5
+8
+3
+None of the above
+2
+What keyword is used to define a constant in C?
+static
+const
+final
+define
+2
+Which of the following is NOT a loop in C?
+for
+while
+loop
+do-while
+3
+Which data type is used to store a single character in C?
+int
+float
+char
+string
+3
+What does the 'return' statement do in a function?
+Ends the function and returns control to the caller
+Creates a new variable
+Exits the program
+None of the above
+1
+Which library is essential to use 'printf' and 'scanf' in C?
+<math.h>
+<stdlib.h>
+<stdio.h>
+<string.h>
+3
+Which of the following is a valid variable name in C?
+2name
+_name
+name$
+name-1
+2
+What is the purpose of the 'void' keyword in C?
+Declares a variable
+Specifies a function does not return a value
+Creates a constant
+None of the above
+2
+How do you declare an array in C?
+arr[10]
+int array[10]
+arr int
+array(10)
+2
+What will 'x' be after the following code? int x = 10; x++;
+9
+10
+11
+12
+3

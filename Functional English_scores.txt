@@ -1,0 +1,4 @@
+Username: pareena, Marks: 6
+Username: batool, Marks: 13
+Username: samina, Marks: 2
+Username: kirpa, Marks: 1

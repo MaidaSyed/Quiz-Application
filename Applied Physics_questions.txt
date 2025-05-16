@@ -1,0 +1,90 @@
+What is the SI unit of force?
+Newton
+Pascal
+Joule
+Watt
+1
+Which of these is a scalar quantity?
+Force
+Displacement
+Velocity
+Mass
+4
+What does Ohm's law state?
+V = IR
+F = ma
+P = IV
+E = mc^2
+1
+What is the acceleration due to gravity on Earth?
+9.8 m/s²
+10 m/s²
+8.9 m/s²
+9.5 m/s²
+1
+Which of the following is a non-renewable energy source?
+Solar
+Wind
+Coal
+Hydro
+3
+What does a convex lens do to light rays?
+Diverges them
+Converges them
+Reflects them
+Stops them
+2
+What is the unit of electric current?
+Coulomb
+Ampere
+Volt
+Volt/m
+2
+What is the first law of thermodynamics?
+Energy can be created.
+Energy can be destroyed.
+Energy can neither be created nor destroyed.
+Energy is infinite.
+3
+What is the speed of light in a vacuum?
+3 × 10^8 m/s
+2 × 10^8 m/s
+3 × 10^6 m/s
+1 × 10^8 m/s
+1
+Which of the following is not a vector quantity?
+Velocity
+Acceleration
+Mass
+Force
+3
+What happens to pressure when the volume of gas is reduced?
+It increases.
+It decreases.
+It stays the same.
+It becomes zero.
+1
+What is the formula for kinetic energy?
+KE = mv^2
+KE = 1/2 mv^2
+KE = mgh
+KE = PV
+2
+What does the term "frequency" refer to?
+Number of waves per second
+Speed of a wave
+Length of a wave
+Energy of a wave
+1
+Which type of wave does not require a medium to travel?
+Sound waves
+Water waves
+Electromagnetic waves
+Seismic waves
+3
+What is the formula for power?
+P = VI
+P = Fs
+P = W/t
+P = mv^2
+3

@@ -1,0 +1,90 @@
+What is the derivative of x^2?
+1
+2x
+x
+x^2
+2
+What is the integral of 1/x?
+ln(x)
+x^2
+1/x
+e^x
+1
+What is the limit of sin(x)/x as x approaches 0?
+0
+1
+Infinity
+Undefined
+2
+What is the slope of a constant function?
+1
+0
+Undefined
+Infinity
+2
+What is the derivative of e^x?
+e^x
+ln(x)
+1
+x^e
+1
+What is the integral of x^n?
+x^(n+1)/(n+1)
+nx^(n-1)
+n/(n+1)x
+n x^n
+1
+What is the second derivative of x^3?
+6
+6x
+3x^2
+9x
+2
+What is the derivative of cos(x)?
+-sin(x)
+cos(x)
+tan(x)
+sec^2(x)
+1
+What is the area under a curve known as?
+Volume
+Gradient
+Definite integral
+Derivative
+3
+What is the value of ln(e)?
+0
+1
+Infinity
+e
+2
+What is the derivative of sin(x)?
+cos(x)
+sin(x)
+tan(x)
+-cos(x)
+1
+What is the integral of cos(x)?
+sin(x)
+-cos(x)
+tan(x)
+ln(x)
+1
+What does "dy/dx" represent?
+Slope
+Derivative
+Gradient
+All of the above
+4
+What is the derivative of ln(x)?
+1
+1/x
+x
+ln(x)/x
+2
+What is the tangent line to a curve?
+A line parallel to the curve
+A line that intersects the curve at one point
+A line perpendicular to the curve
+A line passing through the origin
+2
